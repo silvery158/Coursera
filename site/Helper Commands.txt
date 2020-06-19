@@ -1,0 +1,9 @@
+cd /Code/HTML/Repo/Coursera/site
+
+git add . --Adds all changed folders to commit
+
+git commit -m "Commit Message"
+
+git Status  --- Relays if the Hub is out of date/Ahead
+
+git push --Forces a resync with the Github
